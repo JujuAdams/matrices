@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "__MatrixSystem",
+  "name": "UggRay",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Matrices",
-    "path": "folders/Matrices.yy",
+    "name": "Ugg",
+    "path": "folders/Ugg.yy",
   },
 }
