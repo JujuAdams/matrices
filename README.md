@@ -1,6 +1,6 @@
 <h1 align="center">Matrices</h1>
 
-<p align="center">Matrix manipilation functions GameMaker LTS 2022</p>
+<p align="center">Matrix manipulation functions GameMaker LTS 2022</p>
 
 <p align="center"><a href="https://github.com/JujuAdams/matrices/releases/">Download the .yymps</a></p>
 
