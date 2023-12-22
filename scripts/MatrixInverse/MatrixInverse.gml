@@ -1,3 +1,5 @@
+// Feather disable all
+
 /// @desc Returns the inverse of a 4x4 matrix
 /// 
 /// @param matrix   4x4 matrix to calcuate the inverse of

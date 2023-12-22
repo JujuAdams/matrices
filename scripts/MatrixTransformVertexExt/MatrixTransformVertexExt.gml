@@ -1,3 +1,5 @@
+// Feather disable all
+
 /// Transforms a vec4 by the given 4x4 matrix and returns the resulting vec4
 /// This is an improvement of GameMaker's native matrix_transform_vertex() as this function allows an input w-component to be specified and returns a vec4
 /// 

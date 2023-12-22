@@ -1,3 +1,5 @@
+// Feather disable all
+
 /// Returns a string containing the contents of a 4x4 matrix
 /// This function gives greater decimal accuracy which is useful when dealing with real-world matrices
 /// 
