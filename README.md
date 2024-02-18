@@ -4,6 +4,4 @@
 
 <p align="center"><a href="https://github.com/JujuAdams/matrices/releases/">Download the .yymps</a></p>
 
-<p align="center">Chat about this library on the <a href="https://discord.gg/e9wrvnCWkK">Discord server</a></p>
-
 You may also be interested in [GMLinear2](https://github.com/dicksonlaw583/gmlinear2).
